@@ -1,0 +1,19 @@
+ Replacing 'Trace'
+   -----------------
+   > transaction hash:    0x4fcd5ec339d653f09782a23edde43cd1d93b7f1d89431b60e1f87dfd28309e85
+   > Blocks: 2            Seconds: 27
+   > contract address:    0x28B13cae7bFA7deaF1f6a36329bA9AbccE280e62
+   > block number:        6254793
+   > block timestamp:     1585976443
+   > account:             0x3d3e2658747B44dc9757d1B089b5B00eEcD93f7e
+   > balance:             14.586577523
+   > gas used:            1469649
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.02939298 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 1 (block: 6254794)
+   > confirmation number: 2 (block: 6254795)
+

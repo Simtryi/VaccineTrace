@@ -1,0 +1,27 @@
+.title{
+    font-family: "微软雅黑";
+    font-size:36px;
+    font-width: 500;
+    color:white;
+    margin-top:60px;
+}
+.form{
+    position:absolute;
+    left:50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width:900px;
+    height:500px;
+    background-color: rgba(255,255,255,.2);
+}
+.login-form {
+    margin-top:70px;
+    margin-left: 300px;
+    max-width: 300px;
+}
+.login-form-forgot {
+    float: right;
+}
+.login-form-button {
+    width: 100%;
+}
